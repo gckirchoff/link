@@ -1,1 +1,1 @@
-https://github.com/gckirchoff/link-parser/link
+github.com/gckirchoff/link
